@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repo: bitnami/kubectl
+  repo: bitnamilegacy/kubectl
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   version: "1.27.14"
